@@ -1,4 +1,4 @@
-package org.example.instance;
+package org.example;
 
 public class Sample {
     public void printMessage() {
